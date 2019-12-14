@@ -1,2 +1,2 @@
 # galerybatu
-lerning nodejs from WDS
+learning nodejs from WDS
